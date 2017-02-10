@@ -1,6 +1,6 @@
-# Introduction
+# Prácticas DSI
 
-* [Práctica 1](practica1.md)
+* [Tareas iniciales](practica1.md)
 
 * [Práctica 2]()
 
@@ -9,3 +9,11 @@
 * [Práctica 4]()
 
 * [Práctica 5]()
+
+#Páginas personales
+
+* [Daniel Rodríguez Mastín](#)
+
+* [Gabriel Fernández Castro](https://alu0100885453.github.io)
+
+* [Daniel Díaz García](#)
