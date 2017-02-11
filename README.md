@@ -12,8 +12,8 @@
 
 #Páginas personales
 
-* [Daniel Rodríguez Mastín](#)
+* [Daniel Rodríguez Mastín](https://alu0100886764.github.io)
 
 * [Gabriel Fernández Castro](https://alu0100885453.github.io)
 
-* [Daniel Díaz García](#)
+* [Daniel Díaz García](https://alu0100882186.github.io)
