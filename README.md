@@ -19,3 +19,6 @@
 
 - [Campus Virtual DSI](https://campusvirtual.ull.es/1617/course/view.php?id=1136) 
 
+**Enlace libro Gitbook**
+
+* [https://alu0100886764.gitbooks.io/tareas-iniciales/content/](https://alu0100886764.gitbooks.io/tareas-iniciales/content/)
