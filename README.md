@@ -22,4 +22,8 @@
 
 **Enlace libro Gitbook**
 
-* [Libro](https://alu0100886764.gitbooks.io/tareas-iniciales/content/)
+* [Libro Gitbook](https://alu0100886764.gitbooks.io/tareas-iniciales/content/)
+
+**Enlace GitHub-Pages**
+
+* [Libro GitHub-Pages](https://ull-esit-dsi-1617.github.io/tareas-iniciales-danielr-gabriel-danield/)
