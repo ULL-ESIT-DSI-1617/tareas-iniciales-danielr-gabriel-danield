@@ -1,14 +1,7 @@
 # Prácticas DSI
 
-* [Tareas iniciales](practica1.md)
+* [Tareas iniciales](Summary.md)
 
-* [Práctica 2]()
-
-* [Práctica 3]()
-
-* [Práctica 4]()
-
-* [Práctica 5]()
 
 #Páginas personales
 
@@ -17,3 +10,13 @@
 * [Gabriel Fernández Castro](https://alu0100885453.github.io)
 
 * [Daniel Díaz García](https://alu0100882186.github.io)
+
+
+#Descripción de la Práctica
+
+- [Práctica 1](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/practicas/practicatareasiniciales.html)
+
+#Enlace a la asignatura Desarrollo de Sistemas Informáticos
+
+- [Campus Virtual DSI](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/practicas/practicatareasiniciales.html\) 
+
