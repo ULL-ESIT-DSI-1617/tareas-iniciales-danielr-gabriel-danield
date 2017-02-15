@@ -21,4 +21,4 @@
 
 **Enlace libro Gitbook**
 
-* [https://alu0100886764.gitbooks.io/tareas-iniciales/content/](https://alu0100886764.gitbooks.io/tareas-iniciales/content/)
+* [Libro](https://alu0100886764.gitbooks.io/tareas-iniciales/content/)
