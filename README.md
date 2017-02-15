@@ -11,12 +11,11 @@
 
 * [Daniel Díaz García](https://alu0100882186.github.io)
 
-
 #Descripción de la Práctica
 
 - [Práctica 1](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/practicas/practicatareasiniciales.html)
 
 #Enlace a la asignatura Desarrollo de Sistemas Informáticos
 
-- [Campus Virtual DSI](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/practicas/practicatareasiniciales.html\) 
+- [Campus Virtual DSI](https://campusvirtual.ull.es/1617/course/view.php?id=1136) 
 
