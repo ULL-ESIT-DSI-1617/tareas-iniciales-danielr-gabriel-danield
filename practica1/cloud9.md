@@ -3,7 +3,7 @@
 Cloud 9 es uno de los mejores IDE de desarrollo online orientado al trabajo en equipos. Es un sistema gratuito y te asignan recursos suficientes para trabajar y probar tus aplicaciones.
 
 Utilizar cloud9 es tan fácil como:
-1. Dirigirnos a su página web [arturogoga](https://c9.io) 
+1. Dirigirnos a su página web [c9.io](https://c9.io) 
 2. Registrarnos 
 3. Crear un nuevo workspace con las características que nos hagan falta (desarrollo web, c++, java...). 
 
